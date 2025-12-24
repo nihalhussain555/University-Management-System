@@ -357,10 +357,6 @@ STU001|CS201|0|Spring 2025
 STU002|CS101|0|Fall 2024
 ```
 
-## ⚖️ License
-
-This project is open source and available under the MIT License.
-
 ## 👨‍💼 Author & Credits
 
 **Developer:** Nihal Hussain  
